@@ -24,4 +24,4 @@ evoluir com projetos práticos.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedro-oliveira-b13070388/)
+[LinkedIn](https://www.linkedin.com/in/pedro-de-oliveira-b13070388/)
