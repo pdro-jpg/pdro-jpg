@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Sou o Pedro 👋
 
-<!--
-**pdro-jpg/pdro-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na UniCesumar,
+em transição de carreira para tecnologia e buscando
+minha primeira oportunidade de estágio em desenvolvimento.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Moro em Americana, SP.
+- ☕ Estudo Java, lógica de programação e orientação a objetos.
+- 🐧 Utilizo Ubuntu e IntelliJ IDEA nos meus estudos.
+- 📚 Atualmente, estou lendo O Programador Pragmático.
+
+## Projetos
+
+- **To-do List:** lista de tarefas em Java pelo console.
+- **Simple Bank:** projeto de simulação bancária em Java.
+- **S.G.E.:** sistema de gerenciamento educacional.
+
+## Meu objetivo
+
+Construir uma base sólida em desenvolvimento de software e
+evoluir com projetos práticos.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-oliveira-b13070388/)
