@@ -13,6 +13,7 @@ minha primeira oportunidade de estágio em desenvolvimento.
 
 ## Projetos
 
+- **Sisifo:** Projeto em desenvolvimento que busca ajudar pessoas que têm dificuldade para decidir como aproveitar o tempo livre.
 - **To-do List:** lista de tarefas em Java pelo console.
 - **Simple Bank:** projeto de simulação bancária em Java.
 - **S.G.E.:** sistema de gerenciamento educacional.
